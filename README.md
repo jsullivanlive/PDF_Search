@@ -1,4 +1,3 @@
-
 # PDF_Search
 
 This is a programming test used to ascertain whether an applicant has basic web development skills when they do not yet have an open source portfolio.  This project should take less than 4 hours to complete.  The goal is to get to know you through your source code which is how we hired all other developers on the team.  We strive to have a balance between function and form:
@@ -12,7 +11,7 @@ We have a vision for a free utility website to allow people to search a pdf with
 
 The website should allow users to upload a pdf document, provide a search string, and get a list of page numbers where the string exists.  This way they can open their document and easily seek to the term they wanted to find.
 
-We are not sure yet how we will make money with it, but once it goes viral we can figure it out.
+We are not sure yet how we will make money with it, but once it goes viral we can figure it out!  ;)
 
 ### Assignment Requirements
 
